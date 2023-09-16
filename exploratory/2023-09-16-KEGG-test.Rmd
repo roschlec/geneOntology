@@ -1,0 +1,28 @@
+---
+title: "2023-09-16-KEGG-test"
+author: "Rudolf Schlechter"
+date: "2023-09-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The idea is to obtain a clean data set of annotated gene functions from KEGG pathways of
+
+## Open files
+
+
+## Clean data set
+
+
+## List of annotated KEGG genes
+
+
+## Obtain KEGG pathways
+
+```{r}
+
+```
+
